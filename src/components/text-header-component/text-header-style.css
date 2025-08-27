@@ -1,0 +1,8 @@
+.text-headercontainer {
+  position: absolute;
+  top: 22rem;
+  left: 51rem;
+  color: white;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
