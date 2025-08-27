@@ -4,7 +4,7 @@ import TitleComponent from "../title-component/title-component";
 
 const TextEditComponent = () => {
   return (
-    <div className="text-headercontainer">
+    <div className="text-container">
       <h2>Adeniji Peter</h2>
       <TitleComponent />
       <p>adenijipeter.web</p>

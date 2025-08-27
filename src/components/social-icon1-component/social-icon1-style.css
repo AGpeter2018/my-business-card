@@ -1,0 +1,44 @@
+.iconProperty {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.iconProperty a {
+  text-decoration: none;
+  padding: 0 2rem;
+  margin: 0 1rem;
+  width: 36px;
+  height: 16px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0%;
+}
+
+.iconProperty .emailBody {
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.iconProperty .linkedinBody {
+  background: #5093e2;
+  color: white;
+  padding: 0.5rem 0.65rem;
+  border-radius: 5px;
+}
+
+.iconProperty a .iconEmail {
+  font-size: 0.75rem;
+  padding-right: 0.85rem;
+  opacity: 1;
+  color: #1e1f26;
+}
+
+.iconProperty a .iconLinkedin {
+  font-size: 1rem;
+  padding-right: 0.7rem;
+  opacity: 1;
+  color: #ffffff;
+}
