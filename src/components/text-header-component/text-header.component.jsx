@@ -1,12 +1,13 @@
 import React from "react";
-
 import "./text-header-style.css";
+import TitleComponent from "../title-component/title-component";
 
 const TextEditComponent = () => {
   return (
     <div className="text-headercontainer">
       <h2>Adeniji Peter</h2>
-      <h3>Frontend Developer</h3>
+      <TitleComponent />
+      <p>adenijipeter.web</p>
     </div>
   );
 };

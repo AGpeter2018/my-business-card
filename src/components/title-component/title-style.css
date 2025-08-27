@@ -1,0 +1,17 @@
+.title-container {
+  display: inline-block;
+}
+
+.title-container h3 {
+  margin: 0;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 12.8px;
+  /* leading-trim: NONE; */
+  /* line-height: 100%; */
+  letter-spacing: 0%;
+  /* padding-top: -4rem; */
+  text-align: center;
+  color: #f3bf99;
+}
