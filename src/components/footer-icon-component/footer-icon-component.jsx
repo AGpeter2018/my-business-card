@@ -9,7 +9,7 @@ const FooterIconComponent = () => {
   return (
     <div className="footer-icon-container">
       <a
-        href="https://twitter.com/yourprofile"
+        href="https://x.com/AdenijiPet52714?t=7p0vbj0_F1RqAuiDu_q63w&s=09"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -17,7 +17,7 @@ const FooterIconComponent = () => {
       </a>
 
       <a
-        href="https://www.instagram.com/yourprofile"
+        href="https://www.instagram.com/invites/contact/?igsh=ek429sim1lgu&utm_content=228ty80"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -25,7 +25,7 @@ const FooterIconComponent = () => {
       </a>
 
       <a
-        href="https://www.facebook.com/yourprofile"
+        href="https://www.facebook.com/share/19SpeJJfT8/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -33,7 +33,7 @@ const FooterIconComponent = () => {
       </a>
 
       <a
-        href="https://github.com/yourprofile"
+        href="https://github.com/AGpeter2018"
         target="_blank"
         rel="noopener noreferrer"
       >
