@@ -6,14 +6,7 @@ body {
   box-sizing: border-box;
 }
 
-/* body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
-
 .body-container {
-  /* height: 94vh; */
   width: 100%;
   max-width: 400px;
   border: 1rem solid #23252c;
@@ -21,14 +14,13 @@ body {
   border-radius: 18px;
   width: 18rem;
   margin: 0rem auto;
-  /* margin-right: 10.6rem; */
-  /* margin-top: -3rem; */
+
   padding-top: 1rem;
 }
 
 .App {
   background: #1c1c1c;
-  height: 100vh;
+  height: max-content;
   width: 100vw;
   display: flex;
   justify-content: center;
@@ -38,7 +30,7 @@ body {
 @media screen and (min-width: 768px) {
   .App {
     background: #1c1c1c;
-    height: 100vh;
+    height: max-content;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -46,8 +38,14 @@ body {
   }
 }
 
-@media screen and (min-width: 1200px) {
-  .body-container {
-    max-width: 600px;
+/* @media screen and (min-width: 1200px) {
+  .App {
+    height: 100vh;
+    
+    width: 100vw;
+    background: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-}
+} */
