@@ -6,9 +6,10 @@ const AboutComponent = () => {
     <div className="about-container">
       <h2>About</h2>
       <p>
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I’m a Frontend Developer focused on simple, secure interfaces and
+        continuous learning. As a Geologist, I’m passionate about sustainability
+        and merging tech with earth sciences through data visualization and
+        mapping
       </p>
     </div>
   );

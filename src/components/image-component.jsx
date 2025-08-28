@@ -1,6 +1,6 @@
 import React from "react";
 
-import myImage from "../assets/image.png";
+import myImage from "../assets/Confident-Young Man.png";
 import "./image-component.style.css";
 
 const ImageComponent = () => {

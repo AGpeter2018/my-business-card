@@ -6,6 +6,7 @@ const TitleComponent = () => {
   return (
     <div className="title-container">
       <h3>Frontend Developer</h3>
+      <h3>Geologist</h3>
     </div>
   );
 };

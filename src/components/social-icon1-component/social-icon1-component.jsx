@@ -12,7 +12,7 @@ const SocialIcon1 = () => {
       </a>
       <a
         className="linkedinBody"
-        href="https://www.linkedin.com/in/adeniji-peter/"
+        href="https://www.linkedin.com/in/adeniji-peter-6342511bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
       >
         <TiSocialLinkedin className="iconLinkedin" />
         Linkedin
