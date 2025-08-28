@@ -14,7 +14,8 @@ body {
 
 .body-container {
   /* height: 94vh; */
-  width: 100vw;
+  width: 100%;
+  max-width: 400px;
   border: 1rem solid #23252c;
   background: #1a1b21;
   border-radius: 18px;
@@ -47,10 +48,4 @@ body {
   /* .body-container {
     height: 100vh;
   } */
-}
-
-@media screen and (max-width: 768px) {
-  .App {
-    height: 148vh;
-  }
 }
