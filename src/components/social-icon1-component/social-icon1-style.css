@@ -22,11 +22,21 @@
   border-radius: 5px;
 }
 
+.iconProperty .emailBody:hover {
+  background: #f0f0f0;
+  color: #1e1f26;
+}
+
 .iconProperty .linkedinBody {
   background: #5093e2;
   color: white;
   padding: 0.5rem 0.65rem;
   border-radius: 5px;
+}
+
+.iconProperty .linkedinBody:hover {
+  background: #4078c0;
+  color: white;
 }
 
 .iconProperty a .iconEmail {
@@ -37,7 +47,7 @@
 }
 
 .iconProperty a .iconLinkedin {
-  font-size: 1rem;
+  font-size: 0.85rem;
   padding-right: 0.7rem;
   opacity: 1;
   color: #ffffff;
