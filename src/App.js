@@ -5,6 +5,7 @@ import TextEditComponent from "./components/text-header-component/text-header.co
 import SocialIcon1 from "./components/social-icon1-component/social-icon1-component";
 import AboutComponent from "./components/about-component/about-component";
 import InterestComponent from "./components/interest-component/interest-component";
+import FooterIconComponent from "./components/footer-icon-component/footer-icon-component";
 
 class App extends React.Component {
   constructor() {
@@ -27,6 +28,7 @@ class App extends React.Component {
             <AboutComponent />
             <InterestComponent />
           </div>
+          <FooterIconComponent />
         </div>
       </div>
     );

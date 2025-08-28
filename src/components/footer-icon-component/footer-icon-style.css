@@ -1,0 +1,12 @@
+.footer-icon-container {
+  background: #161619;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 1.3rem;
+  text-align: center;
+}
+
+.footer-icon-container a {
+  padding: 0 1rem;
+  color: #918e9b;
+}
