@@ -4,6 +4,7 @@ import ImageComponent from "./components/image-component";
 import TextEditComponent from "./components/text-header-component/text-header.component";
 import SocialIcon1 from "./components/social-icon1-component/social-icon1-component";
 import AboutComponent from "./components/about-component/about-component";
+import InterestComponent from "./components/interest-component/interest-component";
 
 class App extends React.Component {
   constructor() {
@@ -24,6 +25,7 @@ class App extends React.Component {
           <SocialIcon1 />
           <div className="text-container">
             <AboutComponent />
+            <InterestComponent />
           </div>
         </div>
       </div>

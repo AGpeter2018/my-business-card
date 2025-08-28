@@ -1,0 +1,28 @@
+.interest-container {
+  margin: 0;
+  padding: 0;
+}
+
+.interest-container h2 {
+  padding-right: 9.5rem;
+  padding-top: 2rem;
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #f5f5f5;
+}
+
+.interest-container p {
+  margin: 0 2rem;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 10.24px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #dcdcdc;
+}
